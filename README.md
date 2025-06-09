@@ -1,12 +1,54 @@
-# 💫 About Me:
-I’m currently working on**  <br>Secure backend systems & infrastructure hardening (zero-trust architectures, vulnerability mitigation).  <br><br>**I’m looking to collaborate on**  <br>Scalable software projects — especially distributed systems, API design, or DevSecOps tooling.  <br><br>**I’m looking for help with**  <br>Deep dives into kernel-level security or optimizing real-time database replication strategies.  <br><br>**I’m currently learning**  <br>Go, TypeScript, and advanced database administration (Postgres internals, sharding, perf tuning).  <br><br>**Ask me about**  <br>Backend patterns, secure coding practices, or why I’d fight someone over tabs vs. spaces. 😅  <br><br>**Fun fact**  <br>I once debugged a TypeScript generic so complex, *it type-checked my existential dread*. 😂⚡  
+# 👋 Hi, I'm Ramsonie | Full-Stack Developer
 
+🔭 Passionate about building scalable systems and intuitive user experiences  
+🌱 Currently mastering microservices architecture and cloud optimization  
+💬 Ask me about backend development, database design, or JavaScript ecosystems  
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ramsøulley) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/official_ramsny ) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ramsny) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amramsonie@gmail.com ) 
+## 🛠️ Tech Stack
 
-# 💻 Tech Stack:
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramsonie&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/ramsonie)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramsonie&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/ramsonie)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramsonie&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ramsonie)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ramsonie&theme=radical&margin-w=15&no-bg=true)](https://github.com/ramsonie)
+
+</div>
+
+## 🌟 Recent Projects
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=ramsonie&repo=project-1&theme=dark)](https://github.com/ramsonie/project-1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ramsonie&repo=project-2&theme=dark)](https://github.com/ramsonie/project-2)
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramsonie&theme=github-dark&hide_border=true&area=true)](https://github.com/ramsonie)
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=react&logoColor=white)](https://yourportfolio.com)
